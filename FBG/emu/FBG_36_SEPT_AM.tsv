@@ -1,0 +1,254 @@
+tax_id	abundance	species	genus	family	order	class	phylum	clade	superkingdom	subspecies	species subgroup	species group	estimated counts
+69395	0.001374188875941309	Caulobacter henricii	Caulobacter	Caulobacteraceae	Caulobacterales	Alphaproteobacteria	Proteobacteria		Bacteria				39.006351243594054
+155892	0.0009138313317688881	Caulobacter vibrioides	Caulobacter	Caulobacteraceae	Caulobacterales	Alphaproteobacteria	Proteobacteria		Bacteria				25.93910235225989
+467091	0.17060458254521782	Ilumatobacter fluminis	Ilumatobacter	Ilumatobacteraceae	Acidimicrobiales	Acidimicrobiia	Actinobacteria	Terrabacteria group	Bacteria				4842.611075546008
+467093	0.0389630263250754	Ilumatobacter nonamiensis	Ilumatobacter	Ilumatobacteraceae	Acidimicrobiales	Acidimicrobiia	Actinobacteria	Terrabacteria group	Bacteria				1105.9655022372654
+1052257	0.001897667061498855	Aquihabitans daechungensis	Aquihabitans	Iamiaceae	Acidimicrobiales	Acidimicrobiia	Actinobacteria	Terrabacteria group	Bacteria				53.865279540645
+667306	0.02330044942142761	Aciditerrimonas ferrireducens	Aciditerrimonas	Acidimicrobiaceae	Acidimicrobiales	Acidimicrobiia	Actinobacteria	Terrabacteria group	Bacteria				661.3832568272227
+467094	0.0024607979136442755	Ilumatobacter coccineus	Ilumatobacter	Ilumatobacteraceae	Acidimicrobiales	Acidimicrobiia	Actinobacteria	Terrabacteria group	Bacteria				69.84974877879276
+467976	0.0030702403690584428	Iamia majanohamensis	Iamia	Iamiaceae	Acidimicrobiales	Acidimicrobiia	Actinobacteria	Terrabacteria group	Bacteria				87.14877287572389
+1389192	0.0012467452708767362	Cupriavidus sp. USMAHM13	Cupriavidus	Burkholderiaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				35.38886451383616
+151783	0.0015307992694678753	Cupriavidus campinensis	Cupriavidus	Burkholderiaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				43.451737263845644
+96344	0.0008051430456262659	Cupriavidus oxalaticus	Cupriavidus	Burkholderiaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				22.853985350101556
+232348	0.01663015898581428	Synechococcus sp. CB0101	Synechococcus	Synechococcaceae	Synechococcales		Cyanobacteria	Terrabacteria group	Bacteria				472.0470628123383
+84588	0.0007733233421289796	Synechococcus sp. WH 8102	Synechococcus	Synechococcaceae	Synechococcales		Cyanobacteria	Terrabacteria group	Bacteria				21.950783066331084
+316278	0.010936107075195482	Synechococcus sp. RCC307	Synechococcus	Synechococcaceae	Synechococcales		Cyanobacteria	Terrabacteria group	Bacteria				310.42139932942376
+292587	0.0050197094699568415	Synechococcus rubescens	Synechococcus	Synechococcaceae	Synechococcales		Cyanobacteria	Terrabacteria group	Bacteria				142.48445330472495
+59930	0.008143446318733844	Cyanobium gracile	Cyanobium	Synechococcaceae	Synechococcales		Cyanobacteria	Terrabacteria group	Bacteria				231.15172375726016
+1678128	0.027480985920673728	Limnohabitans sp. 63ED37-2	Limnohabitans	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				780.0477853583237
+1678129	0.1512785688345444	Limnohabitans sp. 103DPR2	Limnohabitans	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				4294.042176368543
+540061	0.0009481636559500787	Limnohabitans parvus	Limnohabitans	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				26.913625374142985
+80879	0.0007280871001494741	Curvibacter delicatus	Curvibacter	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				20.66675233774282
+323423	0.0010218268808773734	Limnohabitans curvus	Limnohabitans	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				29.004556013704246
+1484693	0.012023197733411733	Rhodoferax saidenbachensis	Rhodoferax	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				341.27846766289207
+230310	0.01363645534041969	Curvibacter gracilis	Curvibacter	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				387.0707848378129
+2509614	0.005018391734109028	Rhodoferax sediminis	Rhodoferax	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				142.44704937268477
+86182	0.0013566601557231845	Curvibacter lanceolatus	Curvibacter	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				38.508798520202596
+34073	0.008279262734774495	Variovorax paradoxus	Variovorax	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				235.00687272657404
+553814	0.0014457830624411171	Acidovorax carolinensis	Acidovorax	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				41.03855222739111
+94132	0.010480641002846373	Ramlibacter tataouinensis	Ramlibacter	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				297.4929948657943
+172043	0.0022978721546483057	Brevundimonas nasdae	Brevundimonas	Caulobacteraceae	Caulobacterales	Alphaproteobacteria	Proteobacteria		Bacteria				65.22510110969216
+1827469	0.0012384069962581125	Brevundimonas sp. GW460-12-10-14-LB2	Brevundimonas	Caulobacteraceae	Caulobacterales	Alphaproteobacteria	Proteobacteria		Bacteria				35.15218258878652
+1176538	0.0008241454414522738	Roseomonas sediminicola	Roseomonas	Acetobacteraceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria		Bacteria				23.39336835562279
+1346889	0.007103178258912613	Roseomonas eburnea	Roseomonas	Acetobacteraceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria		Bacteria				201.6237148792345
+257708	0.0007762269207021433	Roseomonas gilardii	Roseomonas	Acetobacteraceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria		Bacteria				22.033201144130338
+207340	0.0020358389941825066	Roseomonas mucosa	Roseomonas	Acetobacteraceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria		Bacteria				57.78728984987045
+1884913	0.0017588970667094697	Candidatus Planktophila lacus	Candidatus Planktophila	Candidatus Nanopelagicaceae	Candidatus Nanopelagicales	Actinobacteria	Actinobacteria	Terrabacteria group	Bacteria				49.9262932385483
+1848756	0.001786755648500118	Actinobacteria bacterium IMCC26103					Actinobacteria	Terrabacteria group	Bacteria				50.71705908267585
+1884905	0.0020505889692857653	Candidatus Planktophila versatilis	Candidatus Planktophila	Candidatus Nanopelagicaceae	Candidatus Nanopelagicales	Actinobacteria	Actinobacteria	Terrabacteria group	Bacteria				58.20596789317645
+1848754	0.0030215265528789515	Actinobacteria bacterium IMCC19121					Actinobacteria	Terrabacteria group	Bacteria				85.76603120346904
+1848755	0.0044279703668790036	Actinobacteria bacterium IMCC26077					Actinobacteria	Terrabacteria group	Bacteria				125.68793886386051
+1884907	0.000895709759416399	Candidatus Planktophila vernalis	Candidatus Planktophila	Candidatus Nanopelagicaceae	Candidatus Nanopelagicales	Actinobacteria	Actinobacteria	Terrabacteria group	Bacteria				25.424721521034485
+573600	0.002581856943263438	Candidatus Planktophila limnetica	Candidatus Planktophila	Candidatus Nanopelagicaceae	Candidatus Nanopelagicales	Actinobacteria	Actinobacteria	Terrabacteria group	Bacteria				73.28600933453268
+294	0.0059309201031458635	Pseudomonas fluorescens	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria		Bacteria			Pseudomonas fluorescens group	168.34916712779534
+76761	0.002646626732983287	Pseudomonas veronii	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria		Bacteria			Pseudomonas fluorescens group	75.1244998157306
+2083054	0.006184499949383833	Pseudomonas sp. LG1D9	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria		Bacteria				175.5470310632601
+515393	0.0006437854962004671	Pseudomonas yamanorum	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria		Bacteria				18.273851309650258
+47883	0.0007969790347477141	Pseudomonas synxantha	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria		Bacteria			Pseudomonas fluorescens group	22.622249901313864
+995	0.003056939389682305	Solitalea canadensis	Solitalea	Sphingobacteriaceae	Sphingobacteriales	Sphingobacteriia	Bacteroidetes	FCB group	Bacteria				86.77122457613223
+543615	0.002080330596104221	Solitalea koreensis	Solitalea	Sphingobacteriaceae	Sphingobacteriales	Sphingobacteriia	Bacteroidetes	FCB group	Bacteria				59.05018397041832
+2100740	0.0024871532283006334	Pedobacter mongoliensis	Pedobacter	Sphingobacteriaceae	Sphingobacteriales	Sphingobacteriia	Bacteroidetes	FCB group	Bacteria				70.59784438531348
+1176721	0.0008025291500566838	Mucilaginibacter jinjuensis	Mucilaginibacter	Sphingobacteriaceae	Sphingobacteriales	Sphingobacteriia	Bacteroidetes	FCB group	Bacteria				22.77978992435897
+985	0.0024825938639463935	Cytophaga hutchinsonii	Cytophaga	Cytophagaceae	Cytophagales	Cytophagia	Bacteroidetes	FCB group	Bacteria				70.46842682811838
+2527691	0.0016576454029954134	Rhodoferax sp. Gr-4	Rhodoferax	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				47.05226476402481
+192843	0.001955982996094437	Rhodoferax ferrireducens	Rhodoferax	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				55.5205773441406
+2599640	0.0016142147047985367	Bosea sp. F3-2	Bosea	Bradyrhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria				45.81948439570646
+1867715	0.0013401029291287864	Bosea sp. Tri-49	Bosea	Bradyrhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria				38.0388216433206
+54067	0.0014136297429381559	Xylophilus ampelinus	Xylophilus		Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				40.125880253299556
+343013	0.000694196692378118	Acidovorax caeni	Acidovorax	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				19.70477311315288
+1917811	0.0028114630491043145	Tibeticola sediminis	Tibeticola	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				79.80337864882597
+758826	0.000647302126310497	Acidovorax radicis	Acidovorax	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				18.373670855323457
+1795631	0.00045274863943786127	Variovorax sp. PAMC 28711	Variovorax	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				12.851270130443693
+500017	0.001494789521049706	Candidatus Planktoluna difficilis	Candidatus Planktoluna	Microbacteriaceae	Micrococcales	Actinobacteria	Actinobacteria	Terrabacteria group	Bacteria				42.42960055499591
+1650658	0.002555042013085526	Actinobacteria bacterium IMCC26256				Actinobacteria	Actinobacteria	Terrabacteria group	Bacteria				72.52486754143266
+685828	0.0031948882335386076	Armatimonas rosea	Armatimonas	Armatimonadaceae	Armatimonadales	Armatimonadia	Armatimonadetes	Terrabacteria group	Bacteria				90.68690250899338
+1379270	0.00292059656076604	Gemmatimonas phototrophica	Gemmatimonas	Gemmatimonadaceae	Gemmatimonadales	Gemmatimonadetes	Gemmatimonadetes	FCB group	Bacteria				82.90113337734405
+173480	0.0029488887357089857	Gemmatimonas aurantiaca	Gemmatimonas	Gemmatimonadaceae	Gemmatimonadales	Gemmatimonadetes	Gemmatimonadetes	FCB group	Bacteria				83.70420676309956
+85698	0.000768887342068151	Achromobacter xylosoxidans	Achromobacter	Alcaligenaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				21.824867204604466
+518	0.0013869073984807269	Bordetella bronchiseptica	Bordetella	Alcaligenaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				39.36736650587543
+521	0.000525901061932156	Bordetella avium	Bordetella	Alcaligenaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				14.927701642944248
+519	0.0011082776193728164	Bordetella parapertussis	Bordetella	Alcaligenaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				31.458460225897394
+32002	0.0009347842127383037	Achromobacter denitrificans	Achromobacter	Alcaligenaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				26.53384987857675
+1706829	0.004066530908083225	Sediminibacterium aquarii	Sediminibacterium	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				115.42847982594235
+2683345	0.01000567079729552	Achromobacter panacis	Achromobacter	Alcaligenaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				284.01096558123334
+540060	0.0004563141511200964	Limnohabitans planktonicus	Limnohabitans	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				12.952477179543937
+321984	0.0008366863827075965	Massilia plicata	Massilia	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				23.749342973155127
+490186	0.003006362464287817	Algoriphagus aquatilis	Algoriphagus	Cyclobacteriaceae	Cytophagales	Cytophagia	Bacteroidetes	FCB group	Bacteria				85.33559854880968
+2056873	0.0011574352236127326	Chakrabartia godavariana	Chakrabartia	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria		Bacteria				32.85379882224741
+569860	0.0007211409853304346	Methylovirgula ligni	Methylovirgula	Beijerinckiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria				20.469586868604388
+876270	0.0006777698009363151	Methyloferula stellata	Methyloferula	Beijerinckiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria				19.238495799577304
+1612308	0.0009260742581385673	Methylocapsa palsarum	Methylocapsa	Beijerinckiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria				26.286617817263235
+426	0.0009420503069027254	Methylosinus trichosporium	Methylosinus	Methylocystaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria				26.74009796143386
+533	0.001717411848977976	Beijerinckia indica	Beijerinckia	Beijerinckiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria				48.74873533323985
+1851505	0.001593982939813837	Cyanobium sp. NIES-981	Cyanobium	Synechococcaceae	Synechococcales		Cyanobacteria	Terrabacteria group	Bacteria				45.24520574661577
+74313	0.0006554204586270555	Brevundimonas subvibrioides	Brevundimonas	Caulobacteraceae	Caulobacterales	Alphaproteobacteria	Proteobacteria		Bacteria				18.60410971812897
+1938605	0.00048229189213924115	Brevundimonas sp. LM2	Brevundimonas	Caulobacteraceae	Caulobacterales	Alphaproteobacteria	Proteobacteria		Bacteria				13.68985535837236
+2561924	0.0006627274744224763	Brevundimonas sp. MF30-B	Brevundimonas	Caulobacteraceae	Caulobacterales	Alphaproteobacteria	Proteobacteria		Bacteria				18.81151936148199
+296591	0.012351959423774294	Polaromonas sp. JS666	Polaromonas	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				350.61036824383336
+2025949	0.0016684344895492185	Herbaspirillum sp. meg3	Herbaspirillum	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				47.35851298585457
+2603856	0.002565323413888651	Lacisediminimonas profundi	Lacisediminimonas	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				72.81670510322937
+341045	0.0006314235741432345	Herbaspirillum hiltneri	Herbaspirillum	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				17.92295815205571
+1465823	0.0006111865609309948	Noviherbaspirillum massiliense	Noviherbaspirillum	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				17.348530532026288
+2497863	0.0005261161507029055	Janthinobacterium sp. 17J80-10	Janthinobacterium	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				14.933806937701974
+29443	0.0011790533294468144	Paucimonas lemoignei	Paucimonas	Burkholderiaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				33.46742875634783
+1925548	0.02956141084660659	Candidatus Fonsibacter ubiquis	Candidatus Fonsibacter		Pelagibacterales	Alphaproteobacteria	Proteobacteria		Bacteria				839.100646880928
+535904	0.002682736297383717	Roseomonas oryzicola	Roseomonas	Acetobacteraceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria		Bacteria				76.1494698012368
+1509237	0.0024494737621015422	Roseomonas arctica	Roseomonas	Acetobacteraceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria		Bacteria				69.52831273725228
+2662614	0.013499649981283373	Terrimonas suqianensis	Terrimonas	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				383.18756471872854
+2024524	0.007689464055529768	Terrimonas soli	Terrimonas	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				218.26543721621246
+1892851	0.004170852519381056	Flavitalea flava	Flavitalea	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				118.38964876263127
+1864941	0.005462970797529005	Terrimonas terrae	Terrimonas	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				155.0664260878608
+796384	0.0004832650501636376	Flavitalea populi	Flavitalea	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				13.717478448894854
+1978412	0.0009196874137015416	Sediminibacterium roseum	Sediminibacterium	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				26.10532723791826
+1789691	0.0016094971801955391	Flaviaesturariibacter luteus	Flaviaesturariibacter	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				45.68557745985038
+249	0.0006101922728796683	Terrimonas ferruginea	Terrimonas	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				17.320307665689384
+1210884	0.005583242537174604	Gemmata massiliana	Gemmata	Gemmataceae	Gemmatales	Planctomycetia	Planctomycetes	PVC group	Bacteria				158.48033941770112
+1630693	0.0019459794057786592	Gemmata sp. SH-PL17	Gemmata	Gemmataceae	Gemmatales	Planctomycetia	Planctomycetes	PVC group	Bacteria				55.23662543302724
+216465	0.005688845171877541	Polaromonas naphthalenivorans	Polaromonas	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				161.477870203744
+2268087	0.007978254562879532	Polaromonas sp. SP1	Polaromonas	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				226.46275576733552
+940136	0.010718256937131057	Sphingorhabdus wooponensis	Sphingorhabdus	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria		Bacteria				304.23772316046507
+1078469	0.0004858014610415009	Sphingorhabdus planktonica	Sphingorhabdus	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria		Bacteria				13.789474471663002
+216932	0.0008812820887123874	Spiroplasma chinense	Spiroplasma	Spiroplasmataceae	Entomoplasmatales	Mollicutes	Tenericutes	Terrabacteria group	Bacteria				25.015192088101116
+556053	0.038812267662181536	Polynucleobacter acidiphobus	Polynucleobacter	Burkholderiaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				1101.6862175910228
+436515	0.0015779528187786168	Variovorax boronicumulans	Variovorax	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				44.79019076103104
+321983	0.0019644018175463437	Massilia albidiflava	Massilia	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				55.75954559105297
+576610	0.0006290431293117362	Polynucleobacter necessarius	Polynucleobacter	Burkholderiaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				17.85538922551363
+2527775	0.000817216990534248	Polynucleobacter paneuropaeus	Polynucleobacter	Burkholderiaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				23.19670427631463
+1884634	0.002687885401423742	Candidatus Nanopelagicus limnes	Candidatus Nanopelagicus	Candidatus Nanopelagicaceae	Candidatus Nanopelagicales	Actinobacteria	Actinobacteria	Terrabacteria group	Bacteria				76.29562711941291
+1884916	0.005251703433178141	Candidatus Nanopelagicus abundans	Candidatus Nanopelagicus	Candidatus Nanopelagicaceae	Candidatus Nanopelagicales	Actinobacteria	Actinobacteria	Terrabacteria group	Bacteria				149.06960195076152
+1884915	0.0005438840536839265	Candidatus Nanopelagicus hibericus	Candidatus Nanopelagicus	Candidatus Nanopelagicaceae	Candidatus Nanopelagicales	Actinobacteria	Actinobacteria	Terrabacteria group	Bacteria				15.438148863818252
+1603298	0.00045829983888701135	Pseudorhodobacter collinsensis	Pseudorhodobacter	Rhodobacteraceae	Rhodobacterales	Alphaproteobacteria	Proteobacteria		Bacteria				13.008840926807817
+1678131	0.0016488078984909585	Pseudorhodobacter psychrotolerans	Pseudorhodobacter	Rhodobacteraceae	Rhodobacterales	Alphaproteobacteria	Proteobacteria		Bacteria				46.80141219866586
+445629	0.0007028771778723533	Rhodobacter johrii	Rhodobacter	Rhodobacteraceae	Rhodobacterales	Alphaproteobacteria	Proteobacteria		Bacteria				19.951168693906748
+2033869	0.0006860972366529059	Rhodobacter sp. CZR27	Rhodobacter	Rhodobacteraceae	Rhodobacterales	Alphaproteobacteria	Proteobacteria		Bacteria				19.474870062392736
+866807	0.0006851911797606464	Aureibacter tunicatorum	Aureibacter	Persicobacteraceae	Cytophagales	Cytophagia	Bacteroidetes	FCB group	Bacteria				19.44915163750595
+392723	0.0008963498105546648	Marinoscillum pacificum	Marinoscillum	Reichenbachiellaceae	Cytophagales	Cytophagia	Bacteroidetes	FCB group	Bacteria				25.44288937259416
+556055	0.0014743794971863863	Polynucleobacter rarus	Polynucleobacter	Burkholderiaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				41.85026202763557
+556054	0.00591653032399293	Polynucleobacter difficilis	Polynucleobacter	Burkholderiaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				167.94071324653933
+29430	0.0031046652505286694	Acinetobacter haemolyticus	Acinetobacter	Moraxellaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria		Bacteria				88.12592313625628
+2603276	0.0008079029900503194	Methylobacterium sp. WL1	Methylobacterium	Methylobacteriaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria				22.932326372578316
+964	0.00098064025852616	Herbaspirillum seropedicae	Herbaspirillum	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				27.83547373826505
+203699	0.0020070846223047456	Derxia gummosa	Derxia	Alcaligenaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				56.9710970041202
+2716883	0.0006830782966991508	Flavihumibacter profundi	Flavihumibacter	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				19.389177451805395
+563170	0.001350685225493233	Ferruginibacter alkalilentus	Ferruginibacter	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				38.33920012562542
+477680	0.00047592862690613613	Filimonas lacunae	Filimonas	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				13.509234074730674
+191579	0.002718199574427341	Fluviicola taffensis	Fluviicola	Crocinitomicaceae	Flavobacteriales	Flavobacteriia	Bacteroidetes	FCB group	Bacteria				77.15609492012007
+998844	0.006799099537862373	Allopseudarcicella aquatilis	Allopseudarcicella	Cytophagaceae	Cytophagales	Cytophagia	Bacteroidetes	FCB group	Bacteria				192.99244038222346
+2516559	0.002896213132345761	Aquirufa antheringensis	Aquirufa	Cytophagaceae	Cytophagales	Cytophagia	Bacteroidetes	FCB group	Bacteria				82.20900976163442
+1173032	0.0005874739421625595	Chamaesiphon minutus	Chamaesiphon	Chamaesiphonaceae	Synechococcales		Cyanobacteria	Terrabacteria group	Bacteria				16.67544784828425
+1827279	0.0009142019420354425	Aliterella antarctica	Aliterella	Chroococcidiopsidaceae	Chroococcidiopsidales		Cyanobacteria	Terrabacteria group	Bacteria				25.949622124676036
+142864	0.0014546329664317547	Cylindrospermum stagnale	Cylindrospermum	Nostocaceae	Nostocales		Cyanobacteria	Terrabacteria group	Bacteria				41.28975675216536
+241425	0.0014628152173589576	Crinalium epipsammum	Crinalium	Gomontiellaceae	Oscillatoriales		Cyanobacteria	Terrabacteria group	Bacteria				41.52200994473401
+1647413	0.0010611925663076133	Anabaena sp. WA102	Anabaena	Nostocaceae	Nostocales		Cyanobacteria	Terrabacteria group	Bacteria				30.121950994641605
+1914871	0.0008908585745958829	Dolichospermum sp. UHCC 0315A	Dolichospermum	Aphanizomenonaceae	Nostocales		Cyanobacteria	Terrabacteria group	Bacteria				25.28702063990414
+1164	0.003561878648719772	Trichormus azollae	Trichormus	Nostocaceae	Nostocales		Cyanobacteria	Terrabacteria group	Bacteria				101.10392544391073
+111781	0.0009480099038811616	Leptolyngbya sp. PCC 7376	Leptolyngbya	Leptolyngbyaceae	Synechococcales		Cyanobacteria	Terrabacteria group	Bacteria				26.909261121666773
+1752063	0.0007764134019494914	Fischerella sp. NIES-3754	Fischerella	Hapalosiphonaceae	Nostocales		Cyanobacteria	Terrabacteria group	Bacteria				22.038494414336313
+53635	0.0018811848161872664	Acidimicrobium ferrooxidans	Acidimicrobium	Acidimicrobiaceae	Acidimicrobiales	Acidimicrobiia	Actinobacteria	Terrabacteria group	Bacteria				53.397431007475554
+47671	0.0016182403404989092	Lautropia mirabilis	Lautropia	Burkholderiaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				45.93375206506154
+1469502	0.001224214505328925	Burkholderiales bacterium GJ-E10			Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				34.74932873376154
+2591463	0.0025664825750888087	Brevundimonas sp. M20	Brevundimonas	Caulobacteraceae	Caulobacterales	Alphaproteobacteria	Proteobacteria		Bacteria				72.84960789389584
+424796	0.0010995050987485141	Brevundimonas lenta	Brevundimonas	Caulobacteraceae	Caulobacterales	Alphaproteobacteria	Proteobacteria		Bacteria				31.209452227976573
+692036	0.0014111876162776042	Tuwongella immobilis	Tuwongella	Gemmataceae	Gemmatales	Planctomycetia	Planctomycetes	PVC group	Bacteria				40.05656048803979
+209649	0.002976051630760815	Ferrithrix thermotolerans	Ferrithrix	Acidimicrobiaceae	Acidimicrobiales	Acidimicrobiia	Actinobacteria	Terrabacteria group	Bacteria				84.47522553914574
+75612	0.0009852862852383364	Pseudomonas mandelii	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria		Bacteria			Pseudomonas fluorescens group	27.96735120649018
+1853130	0.0006339414444338064	Pseudomonas silesiensis	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria		Bacteria				17.994427900253594
+303	0.0005486823690579672	Pseudomonas putida	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria		Bacteria			Pseudomonas putida group	15.5743490457104
+1034944	0.0008651886101580854	Legionella tunisiensis	Legionella	Legionellaceae	Legionellales	Gammaproteobacteria	Proteobacteria		Bacteria				24.558378699337254
+1908690	0.0004942164474059637	Fimbriiglobus ruber	Fimbriiglobus	Gemmataceae	Gemmatales	Planctomycetia	Planctomycetes	PVC group	Bacteria				14.02833385961828
+406548	0.0006470266746045508	Aquisphaera giovannonii	Aquisphaera	Isosphaeraceae	Isosphaerales	Planctomycetia	Planctomycetes	PVC group	Bacteria				18.365852158650174
+2598579	0.0016792419578375792	Limnoglobus roseus	Limnoglobus	Gemmataceae	Gemmatales	Planctomycetia	Planctomycetes	PVC group	Bacteria				47.66528297321968
+1581557	0.015181147688098378	Candidatus Methylopumilus planktonicus	Candidatus Methylopumilus	Methylophilaceae	Nitrosomonadales	Betaproteobacteria	Proteobacteria		Bacteria				430.91687712667243
+445709	0.003121539569402988	Pandoraea thiooxydans	Pandoraea	Burkholderiaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				88.6049006775038
+37482	0.000881467986305266	Laceyella sacchari	Laceyella	Thermoactinomycetaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				25.020468791274975
+433646	0.0006619631737986522	Parafrigoribacterium mesophilum	Parafrigoribacterium	Microbacteriaceae	Micrococcales	Actinobacteria	Actinobacteria	Terrabacteria group	Bacteria				18.789824688274745
+232537	0.0014806008010639065	Rhodoluna limnophila	Rhodoluna	Microbacteriaceae	Micrococcales	Actinobacteria	Actinobacteria	Terrabacteria group	Bacteria				42.02685373819899
+1632865	0.006687196684462409	Pirellula sp. SH-Sr6A	Pirellula	Pirellulaceae	Pirellulales	Planctomycetia	Planctomycetes	PVC group	Bacteria				189.8160778884655
+864828	0.0009008096634515811	Massilia umbonata	Massilia	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				25.56948229707313
+56731	0.0005845194419206871	Rhizobium giardinii	Rhizobium	Rhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria				16.591584358918706
+358	0.0012150874420959186	Agrobacterium tumefaciens	Agrobacterium	Rhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria			Agrobacterium tumefaciens complex	34.49025704389265
+227605	0.0008261155264233694	Methylocella tundrae	Methylocella	Beijerinckiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria				23.44928921752734
+1494448	0.0010262109826446827	Chelatococcus reniformis	Chelatococcus	Chelatococcaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria				29.12899874236932
+1036780	0.0011611830637750157	Bosea robiniae	Bosea	Bradyrhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria				32.96018126525382
+128782	0.000876251458994137	Bosea minatitlanensis	Bosea	Bradyrhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria				24.87239766354858
+2601677	0.0011016855789357713	Tepidiforma bonchosmolovskayae	Tepidiforma	Tepidiformaceae	Tepidiformales	Tepidiformia	Chloroflexi	Terrabacteria group	Bacteria				31.27134515809187
+1446479	0.00400264227850229	Arenimonas maotaiensis	Arenimonas	Xanthomonadaceae	Xanthomonadales	Gammaproteobacteria	Proteobacteria		Bacteria				113.6150010752875
+12917	0.0008436291386236694	Acidovorax facilis	Acidovorax	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				23.946413099832856
+1177982	0.001138996468022148	Acidovorax wautersii	Acidovorax	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				32.33041474480867
+2478662	0.0007218663161200644	Acidovorax sp. 1608163	Acidovorax	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				20.490175383068028
+296052	0.0005633382463934708	Terrimonas lutea	Terrimonas	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				15.990356123878668
+661481	0.0010031729621570774	Flavisolibacter ginsenosidimutans	Flavisolibacter	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				28.475064530828643
+398045	0.0009945945819751414	Flavisolibacter ginsengiterrae	Flavisolibacter	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				28.23156720936439
+462367	0.0004863893252817409	Flavisolibacter ginsengisoli	Flavisolibacter	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				13.806160998122214
+2315862	0.0010801189532480306	Paraflavitalea soli	Paraflavitalea	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				30.65917648794535
+1539049	0.0017376804804503947	Dinghuibacter silviterrae	Dinghuibacter	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				49.32406043758445
+1813871	0.003275877981301829	Panacibacter ginsenosidivorans	Panacibacter	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				92.98579649925242
+1738054	0.0008994489410514706	Arvibacter aurantiibacter	Arvibacter	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				25.530858191745995
+34103	0.00073262996196647	Sphaerotilus natans	Sphaerotilus		Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				20.79570147041825
+1955250	0.0011709920439886576	Novosphingobium endophyticum	Novosphingobium	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria		Bacteria				33.23860916861805
+1867851	0.0005886647917675304	Terrimonas crocea	Terrimonas	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				16.70925011432135
+1632864	0.0009315484148559145	Planctomyces sp. SH-PL14	Planctomyces	Planctomycetaceae	Planctomycetales	Planctomycetia	Planctomycetes	PVC group	Bacteria				26.442001755685133
+74329	0.0014076673238777489	Brevundimonas mediterranea	Brevundimonas	Caulobacteraceae	Caulobacterales	Alphaproteobacteria	Proteobacteria		Bacteria				39.9566369882699
+1267423	0.0009247418543742358	Roseivirga pacifica	Roseivirga	Roseivirgaceae	Cytophagales	Cytophagia	Bacteroidetes	FCB group	Bacteria				26.248797536412685
+340221	0.003987041263209823	Alsobacter metallidurans	Alsobacter		Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria				113.17216625621083
+317	0.00044574949912108415	Pseudomonas syringae	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria		Bacteria		Pseudomonas syringae group genomosp. 1	Pseudomonas syringae group	12.652599532551973
+375286	0.0005894843103664747	Janthinobacterium sp. Marseille	Janthinobacterium	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				16.732512149752385
+2489595	0.0005306302242121836	Glaciecola sp. THG-3.7	Glaciecola	Alteromonadaceae	Alteromonadales	Gammaproteobacteria	Proteobacteria		Bacteria				15.06193891426283
+1892554	0.0006513146933159136	Adhaeribacter terrae	Adhaeribacter	Hymenobacteraceae	Cytophagales	Cytophagia	Bacteroidetes	FCB group	Bacteria				18.48756756977221
+1219	0.0010196341549538167	Prochlorococcus marinus	Prochlorococcus	Prochloraceae	Synechococcales		Cyanobacteria	Terrabacteria group	Bacteria				28.942315488364084
+1805971	0.0015541688169470277	Hydrogenophaga laconesensis	Hydrogenophaga	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				44.11508186904138
+360055	0.0015287640907634297	Zavarzinella formosa	Zavarzinella	Gemmataceae	Gemmatales	Planctomycetia	Planctomycetes	PVC group	Bacteria				43.393968716319954
+1916956	0.002740231809475411	Synechococcus sp. SynAce01	Synechococcus	Synechococcaceae	Synechococcales		Cyanobacteria	Terrabacteria group	Bacteria				77.78147991195954
+2494374	0.001757614946279941	Tabrizicola piscis	Tabrizicola	Rhodobacteraceae	Rhodobacterales	Alphaproteobacteria	Proteobacteria		Bacteria				49.889900250156124
+1562389	0.0014097191251058558	Pedobacter nanyangensis	Pedobacter	Sphingobacteriaceae	Sphingobacteriales	Sphingobacteriia	Bacteroidetes	FCB group	Bacteria				40.01487736612972
+649196	0.0013300956156646004	Sphingobacterium hotanense	Sphingobacterium	Sphingobacteriaceae	Sphingobacteriales	Sphingobacteriia	Bacteroidetes	FCB group	Bacteria				37.75476405063968
+114	0.001708345801608923	Gemmata obscuriglobus	Gemmata	Gemmataceae	Gemmatales	Planctomycetia	Planctomycetes	PVC group	Bacteria				48.49139557866928
+327160	0.0007190912369059418	Candidatus Accumulibacter phosphatis	Candidatus Accumulibacter			Betaproteobacteria	Proteobacteria		Bacteria				20.41140475957516
+1617448	0.0008925726920016879	Geminocystis sp. NIES-3709	Geminocystis	Chroococcaceae	Chroococcales		Cyanobacteria	Terrabacteria group	Bacteria				25.335675862467912
+169056	0.0009575679219414162	Nordella oligomobilis	Nordella		Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria				27.1805654643071
+1824889	0.0010050684956351512	Ancylomarina psychrotolerans	Ancylomarina	Marinifilaceae	Marinilabiliales	Bacteroidia	Bacteroidetes	FCB group	Bacteria				28.52886924860377
+2527968	0.0006306188731162052	Planctomycetes bacterium Q31a					Planctomycetes	PVC group	Bacteria				17.900116713403484
+2528023	0.0006100919022823876	Planctomycetes bacterium ETA_A1					Planctomycetes	PVC group	Bacteria				17.317458646285573
+86669	0.001042868601234807	Acidovorax defluvii	Acidovorax	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				29.601825246049994
+1750561	0.000853887793402315	Legionella saoudiensis	Legionella	Legionellaceae	Legionellales	Gammaproteobacteria	Proteobacteria		Bacteria				24.23760501572471
+96232	0.0008695842561143668	Legionella lytica	Legionella	Legionellaceae	Legionellales	Gammaproteobacteria	Proteobacteria		Bacteria				24.6831491098063
+96230	0.0010468740435838834	Legionella fallonii	Legionella	Legionellaceae	Legionellales	Gammaproteobacteria	Proteobacteria		Bacteria				29.71551972712853
+187303	0.0011152519985019522	Methylocystis sp. SC2	Methylocystis	Methylocystaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria				31.65642797747791
+1804625	0.0010271771697393881	Ruficoccus amylovorans	Ruficoccus	Puniceicoccaceae	Puniceicoccales	Opitutae	Verrucomicrobia	PVC group	Bacteria				29.156423963052532
+1548207	0.0010949549972270403	Cephaloticoccus primus	Cephaloticoccus	Opitutaceae	Opitutales	Opitutae	Verrucomicrobia	PVC group	Bacteria				31.08029759628954
+2576891	0.00043183370134152783	Nibricoccus aquaticus	Nibricoccus	Opitutaceae	Opitutales	Opitutae	Verrucomicrobia	PVC group	Bacteria				12.257599612579268
+1229656	0.002864381730328265	Acidibacter ferrireducens	Acidibacter			Gammaproteobacteria	Proteobacteria		Bacteria				81.3054754153678
+107709	0.0015379727541858415	Opitutus terrae	Opitutus	Opitutaceae	Opitutales	Opitutae	Verrucomicrobia	PVC group	Bacteria				43.65535662756511
+32040	0.0005647412856334456	Acidovorax konjaci	Acidovorax	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria		Bacteria				16.030181392705355
+1076	0.0010014570297853349	Rhodopseudomonas palustris	Rhodopseudomonas	Bradyrhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria				28.42635779045673
+177412	0.0016986145083873207	Fucophilus fucoidanolyticus	Fucophilus	Verrucomicrobiaceae	Verrucomicrobiales	Verrucomicrobiae	Verrucomicrobia	PVC group	Bacteria				48.2151728205741
+210512	0.0034152252948043537	Sandarakinorhabdus limnophila	Sandarakinorhabdus	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria		Bacteria				96.94116999302157
+117207	0.0009232572250705798	Sphingopyxis alaskensis	Sphingopyxis	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria		Bacteria				26.20665633362841
+180400	0.00101029819912428	Sphingopyxis chilensis	Sphingopyxis	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria		Bacteria				28.677314382142686
+651663	0.0005919808222402084	Sphingopyxis bauzanensis	Sphingopyxis	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria		Bacteria				16.803375639288316
+64002	0.0010282361298824252	Nevskia ramosa	Nevskia	Sinobacteraceae	Nevskiales	Gammaproteobacteria	Proteobacteria		Bacteria				29.18648254671264
+654	0.0009547944762318669	Aeromonas veronii	Aeromonas	Aeromonadaceae	Aeromonadales	Gammaproteobacteria	Proteobacteria		Bacteria				27.10184120784154
+70799	0.0008706674084694147	Nodularia spumigena	Nodularia	Aphanizomenonaceae	Nostocales		Cyanobacteria	Terrabacteria group	Bacteria				24.713894389404338
+79329	0.000965556790739056	Chitinophaga pinensis	Chitinophaga	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	FCB group	Bacteria				27.407329505128104
+270915	0.0007966630485682508	Lishizhenia caseinilytica	Lishizhenia	Crocinitomicaceae	Flavobacteriales	Flavobacteriia	Bacteroidetes	FCB group	Bacteria				22.6132806336098
+102117	0.0005412631677256775	Oscillatoria sancta	Oscillatoria	Oscillatoriaceae	Oscillatoriales		Cyanobacteria	Terrabacteria group	Bacteria				15.363755015893355
+395922	0.0006359229580923311	Coraliomargarita akajimensis	Coraliomargarita	Puniceicoccaceae	Puniceicoccales	Opitutae	Verrucomicrobia	PVC group	Bacteria				18.050673165450817
+445220	0.0011277574398735858	Reyranella massiliensis	Reyranella		Rhodospirillales	Alphaproteobacteria	Proteobacteria		Bacteria				32.01139493081173
+2303331	0.0006619093255316698	Solimonas sp. K1W22B-7	Solimonas	Sinobacteraceae	Nevskiales	Gammaproteobacteria	Proteobacteria		Bacteria				18.788296205216447
+690879	0.001031577315105467	Terrimicrobium sacchariphilum	Terrimicrobium	Terrimicrobiaceae	Terrimicrobiales	Terrimicrobia	Verrucomicrobia	PVC group	Bacteria				29.28132208926868
+191863	0.0005508425667840078	Chthoniobacter flavus	Chthoniobacter	Chthoniobacteraceae	Chthoniobacterales	Spartobacteria	Verrucomicrobia	PVC group	Bacteria				15.635666258164061
+777	0.000477464783729438	Coxiella burnetii	Coxiella	Coxiellaceae	Legionellales	Gammaproteobacteria	Proteobacteria		Bacteria				13.552837886160097
+1002870	0.0011384084334828115	Gaiella occulta	Gaiella	Gaiellaceae	Gaiellales	Rubrobacteria	Actinobacteria	Terrabacteria group	Bacteria				32.313723384409606
+102116	0.0016702414925437192	Stanieria cyanosphaera	Stanieria	Dermocarpellaceae	Pleurocapsales		Cyanobacteria	Terrabacteria group	Bacteria				47.409804765853465
+911197	0.000518790557841059	Phaeocystidibacter luteus	Phaeocystidibacter	Schleiferiaceae	Flavobacteriales	Flavobacteriia	Bacteroidetes	FCB group	Bacteria				14.72586998431846
+1577780	0.0006462660497100887	Phaeocystidibacter marisrubri	Phaeocystidibacter	Schleiferiaceae	Flavobacteriales	Flavobacteriia	Bacteroidetes	FCB group	Bacteria				18.34426182102087
+1282	0.0005875656420990783	Staphylococcus epidermidis	Staphylococcus	Staphylococcaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				16.678050750982337
+2578114	0.0005538363293294751	Bradyrhizobium sp. KBS0727	Bradyrhizobium	Bradyrhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria				15.72064420801715
+2578113	0.0005914945846427321	Bradyrhizobium sp. KBS0725	Bradyrhizobium	Bradyrhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria				16.789573785083952
+216778	0.0012305095371245927	Stenotrophomonas rhizophila	Stenotrophomonas	Xanthomonadaceae	Xanthomonadales	Gammaproteobacteria	Proteobacteria		Bacteria				34.928013211281566
+760012	0.00106504557218395	Phenylobacterium muchangponense	Phenylobacterium	Caulobacteraceae	Caulobacterales	Alphaproteobacteria	Proteobacteria		Bacteria				30.231318566441423
+2201350	0.0006275464724498178	Phenylobacterium sp. HYN0004	Phenylobacterium	Caulobacteraceae	Caulobacterales	Alphaproteobacteria	Proteobacteria		Bacteria				17.81290662048808
+47959	0.0008455900842014288	Annwoodia aquaesulis	Annwoodia	Thiobacillaceae	Nitrosomonadales	Betaproteobacteria	Proteobacteria		Bacteria				24.002074540057556
+28090	0.0004574514546972873	Acinetobacter lwoffii	Acinetobacter	Moraxellaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria		Bacteria				12.9847595415825
+1715860	0.0006242884966642114	Staphylococcus sp. AntiMn-1	Staphylococcus	Staphylococcaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				17.72042897781364
+unassigned	0.0												346.0
